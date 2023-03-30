@@ -3,6 +3,14 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
+    "@capacitor/android": "^4.7.1",
+    "@capacitor/app": "4.1.1",
+    "@capacitor/core": "4.7.1",
+    "@capacitor/haptics": "4.1.0",
+    "@capacitor/ios": "^4.7.1",
+    "@capacitor/keyboard": "4.1.1",
+    "@capacitor/status-bar": "4.1.1",
+    "@codetrix-studio/capacitor-google-auth": "^3.2.2",
     "@ionic/react": "^7.0.0",
     "@ionic/react-router": "^7.0.0",
     "@testing-library/jest-dom": "^5.11.9",
@@ -56,5 +64,8 @@
     "Safari >=14",
     "iOS >=14"
   ],
-  "description": "An Ionic project"
+  "description": "An Ionic project",
+  "devDependencies": {
+    "@capacitor/cli": "4.7.1"
+  }
 }

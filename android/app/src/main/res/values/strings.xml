@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GoogleLoginTest</string>
+    <string name="title_activity_main">GoogleLoginTest</string>
+    <string name="package_name">com.devynsharpe.googlelogintest</string>
+    <string name="custom_url_scheme">com.devynsharpe.googlelogintest</string>
+    <string name="server_client_id">714024619236-ftqvp3letq3gr2s2f966fv56bq5f7d93.apps.googleusercontent.com</string>
+</resources>

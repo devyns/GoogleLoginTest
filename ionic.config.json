@@ -1,5 +1,7 @@
 {
   "name": "GoogleLoginTest",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
